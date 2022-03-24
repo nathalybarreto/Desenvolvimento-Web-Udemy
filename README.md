@@ -1,1 +1,1 @@
-Conteúdo aprendido no curso de desenvolvimento web na plataforma Udemy.
+Todo conteúdo aplicado no curso de desenvolvimento web Udemy
