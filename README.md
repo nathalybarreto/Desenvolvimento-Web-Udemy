@@ -1,2 +1,1 @@
-# UdemyHTML
-Udemy HTML
+Conteúdo aprendido no curso de desenvolvimento web na plataforma Udemy.
